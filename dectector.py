@@ -4,6 +4,7 @@
 # In[5]:
 
 
+#Data set from Kaggle: https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset
 import numpy as np
 import pandas as pd
 import nltk
